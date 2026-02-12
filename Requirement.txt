@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+sentence-transformers
+numpy
+gtts
+torch
+matplotlib
